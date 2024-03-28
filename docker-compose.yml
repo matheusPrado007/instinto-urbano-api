@@ -1,0 +1,20 @@
+version: "3"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/usr/src/app
+    environment:
+      NODE_ENV: development
+      ACCESS_TOKEN_SECRET: yourAccessTokenSecret
+      REFRESH_TOKEN_SECRET: yourRefreshTokenSecret
+    depends_on:
+      - mongo
+  mongo:
+    image: mongo
+    ports:
+      - "27018:27017"

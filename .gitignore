@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+*.xml
+# *.json
+*.html
+*.info
+
+.env

@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "rastro-urbano",
+    "private_key_id": "80862f61f556ccacac80676493a73786755aca1d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCs4mf31oBcDfxt\nhag6tzi/ftfLt3a5lJ9Pk82tB3JLsyW426d952aZcfbqOpyOWc/U39qIg9d2sTNw\nXUlPCUtClTohQK2QCy62AJH9KRon5zuDKMk5JHXeH2tu+rQ62+Qpbb6viHLAsN95\nd57FWl0jXbfWxQ3fYtTlMBrIrxtva4/3+HFJSD7rEMG22xCZLX48ogYn4PrE7H+2\nQSyTC6fTWBZDDXdF1ucPKbllXkR1YxQ7X6QS4hUQf+PsMngEPmX7AHMpykjtrxqD\nxzb94PrYVxBgZkKszWDNWkp4MSuVlB3sBSvkGxqlMI3npCh1pQg6FhSFHV9XwXtu\nsnPvezcFAgMBAAECgf9g43KsNopt/aTUrU9tem6eiP86LB8DD4QayZyJ45NmuyzS\nP7EW7XopG0wJgHUtrFTccNQ1cXG4qbSTrdJJtVUd7IPFiGrLx7TPWjcrmt1ZBx/p\nu/Hcfc696ZKXRVLLbX+PIaa8In/w5vLtp5TL2GA8F2fR9VI6ZqGAKpOM1aTz6cEt\nccwqu1Z35g0H6maXM23WqtvCSAUglbzGRZ/pzGt0XyXoA3TNFVYfwqScopeucBl5\nMwrGFP+GtcKmztP+ExaPj93xVg0c5eV4xV/mII914eYxcY5O2T/NnW3PdctJ9r2S\nm7xXhytCkzKZh7yiyLdVGOZwojkpi5CFIQ9SP+ECgYEA63KJf//UhgcdCSs/vM8n\nVTFu/603tkyo/JDA5a1uQhAQP7QSYY8AFjVwmxHO/j8uXjp7kq8xh+xgRlX9qHxU\nuVZOwLk/mIhJIqeLdIGwrMzpNP33uj+gpdPapw9qbrxBRrE13MxC9u7IHG4SD9Mq\nzBfEzK/8JnjQjHbUXOyVj80CgYEAu/nLdS56K0F4aOaQD5sVInc99QeVnUW/ZdnO\ntJDJM6olszcnrRV+7Y36gUU1YLoWdAlHfab1Sbht7hOQvYTVKwmOZs6KEfGBxDB7\nHYztQT2LjIdlbeUNnLzCMHPj40rnTt9lYLXda6yUIUmrUOmNISlDU11BoE6CDqey\n9z583BkCgYEAs7rfU6KLLTTI6XLmWM8Zi2MNBIfJ+5NRfFtTpQBbJnr0rGxdi7OJ\nsWph5z4U8OhyEOQ76KFsAgJjC84gsDkYw9Iqk9vVvC5tBdM4FVva7k4Nx7IHJVnk\n3DF4vAZ8jMOQYNJt93rFs5Jbl7g+eW4NQXbzd/zvUr7vFAqx2a2QDhECgYAxtxYl\nbt5m1FD5RYlyZyzGycy8In5icxD06g8uWGCuZmDELmEy+M1yHKvVRq2gYHcRx2Z+\nCAs1rS592fTc+uW6FTPxYszHhB0y+zOElEInkBR5XVHpJ7xa6N1fHTd3ZNcaWCEi\n29as5J7k0uwZYTuvOo+Q28hAkqL5J0dA9ujk+QKBgQDjjyUmT7jl8u4dCwprdALw\nik7xzwWducmwSnaBLJG+VEj4LKPW0fBY58zRoTnuuCzCkMXN8jZQkW5ecJs/TTTq\nSHqwhs08eocYLk5e2vuM2yZhXpHXerBD+K+DS8rzu7BXMCE1KXg4Rd9AOGiCbVoR\nzgq1vnWHPFpmizjaF8jhsw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-uhvwu@rastro-urbano.iam.gserviceaccount.com",
+    "client_id": "115499007406279130628",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uhvwu%40rastro-urbano.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
