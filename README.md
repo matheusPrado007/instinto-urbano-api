@@ -1,4 +1,3 @@
-Aqui está o texto formatado em Markdown para a documentação da API "Instinto Urbano":
 
 
 # Documentação da API - Instinto Urbano
